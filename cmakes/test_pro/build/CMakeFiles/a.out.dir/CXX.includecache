@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/watanabe.h/cppproject/cmakes/test_pro/good_morning.hpp
+
+/home/watanabe.h/cppproject/cmakes/test_pro/hello.hpp
+
+/home/watanabe.h/cppproject/cmakes/test_pro/main.cpp
+hello.hpp
+/home/watanabe.h/cppproject/cmakes/test_pro/hello.hpp
+good_morning.hpp
+/home/watanabe.h/cppproject/cmakes/test_pro/good_morning.hpp
+

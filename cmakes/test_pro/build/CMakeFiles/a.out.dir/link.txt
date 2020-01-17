@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -Wl,--enable-auto-import CMakeFiles/a.out.dir/main.cpp.o  -o a.out.exe -Wl,--out-implib,liba.out.dll.a -Wl,--major-image-version,0,--minor-image-version,0 libgreetings.dll.a 

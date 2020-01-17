@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -shared -Wl,--enable-auto-import -o msys-greetings.dll -Wl,--out-implib,libgreetings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 CMakeFiles/greetings.dir/hello.cpp.o CMakeFiles/greetings.dir/good_morning.cpp.o 
